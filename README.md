@@ -9,10 +9,6 @@ using a laser-absorption target and estimated thermal radiation loss.
 
 ![Absorber GUI](absorber-dashboard.png)
 
-## Run the application
-
-Open **Releases** and download `TMM_Absorber_Studio.exe`.
-Run it on Windows; Python is not required.
 
 ## Model scope
 
